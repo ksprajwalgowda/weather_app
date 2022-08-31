@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weather_app/static/css/main.4799e361.css",
-    "main.js": "/weather_app/static/js/main.fd756597.js",
-    "static/js/787.d9312eb8.chunk.js": "/weather_app/static/js/787.d9312eb8.chunk.js",
-    "index.html": "/weather_app/index.html",
-    "main.4799e361.css.map": "/weather_app/static/css/main.4799e361.css.map",
-    "main.fd756597.js.map": "/weather_app/static/js/main.fd756597.js.map",
-    "787.d9312eb8.chunk.js.map": "/weather_app/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/wheather_app/static/css/main.4799e361.css",
+    "main.js": "/wheather_app/static/js/main.5c5ba261.js",
+    "static/js/787.d9312eb8.chunk.js": "/wheather_app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/wheather_app/index.html",
+    "main.4799e361.css.map": "/wheather_app/static/css/main.4799e361.css.map",
+    "main.5c5ba261.js.map": "/wheather_app/static/js/main.5c5ba261.js.map",
+    "787.d9312eb8.chunk.js.map": "/wheather_app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4799e361.css",
-    "static/js/main.fd756597.js"
+    "static/js/main.5c5ba261.js"
   ]
 }
